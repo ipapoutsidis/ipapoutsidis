@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there, I am Ilias 👋
 
-<!--
-**ipapoutsidis/ipapoutsidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on GSAP and other JS libraries
+- 🌱 I’m currently learning advanced Javascript
+- 👯 I’m currently contribute on open source projects: [StateOfJS](https://github.com/StateOfJS) and [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial)
+- 📫 You can reach me by email: ipapoutsidis@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+### Languages and tools that I use:
+<img style="text-align: left; width: 26px;" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img style="text-align: left; width: 26px;" alt="HTML5"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="text-align: left; width: 26px;" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img style="text-align: left; width: 26px;" alt="JavaScript"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img style="text-align: left; width: 26px;" alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img style="text-align: left; width: 30px;"  alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
