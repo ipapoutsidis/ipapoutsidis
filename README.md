@@ -2,7 +2,6 @@
 
 ### About Me:
 
-- 🔭 I’m currently working on GSAP and other JS libraries
 - 🌱 I’m currently learning advanced Javascript
 - 👯 I’m currently contribute to open source projects: [State Of JS](https://github.com/StateOfJS) and [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial)
 - 📫 You can reach me by email: ipapoutsidis@gmail.com
