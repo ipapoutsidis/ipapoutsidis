@@ -1,7 +1,7 @@
 ## Hi there, I am Ilias 👋
 
 ### About Me:
-
+- Crypto enthusiastic/curious
 - 🌱 I’m currently learning advanced Javascript
 - 👯 I’m currently contribute to open source projects: [State Of JS](https://github.com/Devographics) and [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial)
 <hr>
