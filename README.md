@@ -2,8 +2,7 @@
 
 ### About Me:
 - Crypto enthusiastic/curious
-- 🌱 I’m currently learning advanced Javascript
-- 👯 I’m currently contribute to open source projects: [Devographics](https://github.com/Devographics) and [The Modern JavaScript Tutorial](https://github.com/javascript-tutorial)
+- 🌱 I’m currently learning Javascript and Angular
 <hr>
 
 ### Languages and tools that I use:
